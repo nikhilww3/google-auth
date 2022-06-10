@@ -2,14 +2,14 @@ import firebase from "firebase/app"
 import "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAPOyCfpG6YnNy7zgf2az878bVqXHFUIw4",
-  authDomain: "auth-development-934e5.firebaseapp.com",
-  databaseURL: "https://auth-development-934e5-default-rtdb.firebaseio.com",
-  projectId: "auth-development-934e5",
-  storageBucket: "auth-development-934e5.appspot.com",
-  messagingSenderId: "423905378313",
-  appId: "1:423905378313:web:ae32ba01d025a09d5778d8"
-}; 
-
+  apiKey: "AIzaSyBcQr-xm0gqX0C0eB025v63feoRXRyx6dM",
+  authDomain: "team-expansion-54ae7.firebaseapp.com",
+  databaseURL: "https://team-expansion-54ae7-default-rtdb.firebaseio.com",
+  projectId: "team-expansion-54ae7",
+  storageBucket: "team-expansion-54ae7.appspot.com",
+  messagingSenderId: "932038990518",
+  appId: "1:932038990518:web:b67532c58cf678c6bfa417",
+  measurementId: "G-W310M4WJL0"
+};
 export const auth = app.auth()
 export default app
